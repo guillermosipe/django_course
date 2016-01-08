@@ -1,8 +1,26 @@
-<h1> {{ title }} </h1>
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
 
-<form method='POST' action=''>{% csrf_token %}
+{% block head_title %} Welcome | {% endblock %}
 
-{{ form.as_p }}
+{% block jumbotron %}
 
-<input type="submit" value="Sign Up"/>
-</form>
+{{ block.super }}
+hello
+
+{% endblock %}
+
+{% block content %}
+<div class="row">
+	<div class="col-sm-6">
+		<h1> {{ title }} </h1>
+
+		<form method='POST' action=''>{% csrf_token %}
+
+		{{ form | crispy }}
+
+		<input class="btn btn-primary" type="submit" value="Sign Up"/>
+		</form>
+	</div>
+</div>
+{% endblock %}

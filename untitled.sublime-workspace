@@ -63,7 +63,7 @@
 			"file": "curso/views.py",
 			"settings":
 			{
-				"buffer_size": 1376,
+				"buffer_size": 1297,
 				"line_ending": "Unix"
 			}
 		},
@@ -71,7 +71,7 @@
 			"file": "curso_django/urls.py",
 			"settings":
 			{
-				"buffer_size": 964,
+				"buffer_size": 890,
 				"line_ending": "Unix"
 			}
 		},
@@ -79,17 +79,8 @@
 			"file": "curso_django/settings.py",
 			"settings":
 			{
-				"buffer_size": 3956,
+				"buffer_size": 4082,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "curso/templates/home.html",
-			"settings":
-			{
-				"buffer_size": 135,
-				"line_ending": "Unix",
-				"name": "<h1> Hello World !!!</h1>"
 			}
 		},
 		{
@@ -125,10 +116,18 @@
 			}
 		},
 		{
-			"file": "curso/templates/bootstrap_test.html",
+			"file": "curso/templates/navbar.html",
 			"settings":
 			{
-				"buffer_size": 4495,
+				"buffer_size": 1874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "curso/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 434,
 				"line_ending": "Unix"
 			}
 		},
@@ -136,7 +135,7 @@
 			"file": "curso/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 4495,
+				"buffer_size": 1357,
 				"line_ending": "Unix"
 			}
 		}
@@ -165,6 +164,10 @@
 	},
 	"file_history":
 	[
+		"/home/guillermosipe/Documentos/GitHub/curso_django/curso/templates/base_css.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/curso/templates/base_js.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/curso/templates/bootstrap_test.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/curso/templates/home.html",
 		"/home/guillermosipe/.cache/.fr-JcbH0B/bootstrap-3.3.6/docs/examples/navbar-fixed-top/index.html",
 		"/home/guillermosipe/Documentos/curso_django/curso/templates/bootstrap_test.html",
 		"/home/guillermosipe/Documentos/curso_django/curso/views.py",
@@ -248,7 +251,7 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -256,15 +259,15 @@
 					"file": "curso/views.py",
 					"settings":
 					{
-						"buffer_size": 1376,
+						"buffer_size": 1297,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1366,
-								1366
+								606,
+								606
 							]
 						],
 						"settings":
@@ -273,7 +276,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 495.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -283,15 +286,15 @@
 					"file": "curso_django/urls.py",
 					"settings":
 					{
-						"buffer_size": 964,
+						"buffer_size": 890,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								932,
-								932
+								843,
+								843
 							]
 						],
 						"settings":
@@ -301,7 +304,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -311,15 +314,15 @@
 					"file": "curso_django/settings.py",
 					"settings":
 					{
-						"buffer_size": 3956,
+						"buffer_size": 4082,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3552,
-								3552
+								4072,
+								4072
 							]
 						],
 						"settings":
@@ -329,40 +332,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1800.0,
+						"translation.y": 495.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "curso/templates/home.html",
-					"settings":
-					{
-						"buffer_size": 135,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<h1> Hello World !!!</h1>",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "curso/templates/forms.html",
 					"settings":
 					{
@@ -388,7 +364,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "curso/models.py",
 					"settings":
 					{
@@ -414,7 +390,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "curso/forms.py",
 					"settings":
 					{
@@ -441,7 +417,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "curso/admin.py",
 					"settings":
 					{
@@ -452,8 +428,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								259,
+								259
 							]
 						],
 						"settings":
@@ -467,19 +443,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "curso/templates/bootstrap_test.html",
+					"buffer": 7,
+					"file": "curso/templates/navbar.html",
 					"settings":
 					{
-						"buffer_size": 4495,
+						"buffer_size": 1874,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3521,
-								3521
+								86,
+								86
 							]
 						],
 						"settings":
@@ -489,7 +465,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 675.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "curso/templates/home.html",
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -499,15 +501,15 @@
 					"file": "curso/templates/base.html",
 					"settings":
 					{
-						"buffer_size": 4495,
+						"buffer_size": 1357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								382,
-								382
+								658,
+								658
 							]
 						],
 						"settings":

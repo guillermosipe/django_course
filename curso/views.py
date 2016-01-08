@@ -57,7 +57,3 @@ def contact(request):
 	}
 
 	return render(request,"forms.html",context)
-
-def bootstrap_test(request):
-
-	return render(request,"bootstrap_test.html",{})

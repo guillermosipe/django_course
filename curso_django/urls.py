@@ -21,7 +21,6 @@ from curso import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^contact/', views.contact,name='contact'),
-    url(r'^bootstrap_test/', views.bootstrap_test,name='bootstrap_test'),
     url(r'^', views.home,name='home'),
     
 ]
