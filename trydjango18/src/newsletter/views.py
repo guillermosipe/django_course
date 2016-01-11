@@ -31,7 +31,9 @@ def home(request):
 
 
 def contact(request):
+	title = "Contacto"
 	form = ContactForm(request.POST or None)
+	title_align_center = True
 
 	if form.is_valid():
 		#for key in form.cleaned_data:
@@ -53,7 +55,9 @@ def contact(request):
 
 
 	context = {
-		"form" : form
+		"form" : form,
+		"title" : title,
+		"title_align_center":title_align_center
 	}
 
 	return render(request,"forms.html",context)
