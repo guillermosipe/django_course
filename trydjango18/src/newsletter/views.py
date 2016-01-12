@@ -3,6 +3,9 @@ from django.shortcuts import render
 from django.conf import settings
 
 from .forms import SignUpForm,ContactForm
+
+from .models import SignUp
+
 # Create your views here.
 def home(request):
 	title = "Bienvenido"
@@ -24,6 +27,18 @@ def home(request):
 
 		context = {
 			"title" : "Registro exitoso"
+		}
+
+	if request.user.is_authenticated() and request.user.is_staff:
+		#print(SignUp.objects.all())
+		#i=1
+		#for instance in SignUp.objects.all():
+		#	print(i,instance.full_name)
+		#	i += 1
+		
+		datos = SignUp.objects.all().order_by('-timestamp')#.filter(full_name__icontains='guillermo')
+		context = {
+			"datos" : datos
 		}
 	
 
