@@ -138,6 +138,14 @@
 				"buffer_size": 3479,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/home/guillermosipe/Documentos/GitHub/curso_django/README.md",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -294,7 +302,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -511,6 +519,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/guillermosipe/Documentos/GitHub/curso_django/README.md",
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -1,7 +1,14 @@
 # Cursos de Django
 
 ## Django 1.8
-trydjango18: Código desarrollado para el curso de Django 1.8 de CodingEntrepreneurs via [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S). Entorno virtual: ($ source bin/activate).
+trydjango18: Código desarrollado para el curso de Django 1.8 de CodingEntrepreneurs vía [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S). 
+
+Ejecución:
+- $ source bin/activate
+- $ python manage.py migrate
+- $ python manage.py createsuperuser
+- $ python manage.py runserver --insecure
+- $ deactivate
 
 Aplicaciones de terceros usadas:
 * [Bootstrap 3](http://getbootstrap.com/)
