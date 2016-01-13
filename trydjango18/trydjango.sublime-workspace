@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"context"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
 				"BA",
 				"BASE_DIR"
 			],
@@ -60,26 +76,26 @@
 	"buffers":
 	[
 		{
-			"file": "src/templates/base.html",
-			"settings":
-			{
-				"buffer_size": 840,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/templates/home.html",
 			"settings":
 			{
-				"buffer_size": 1093,
+				"buffer_size": 2459,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/templates/forms.html",
+			"file": "src/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 457,
+				"buffer_size": 903,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static_in_pro/our_static/css/navbar-fixed-top.css",
+			"settings":
+			{
+				"buffer_size": 258,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +103,7 @@
 			"file": "src/templates/navbar.html",
 			"settings":
 			{
-				"buffer_size": 2582,
+				"buffer_size": 2867,
 				"line_ending": "Unix"
 			}
 		},
@@ -95,31 +111,31 @@
 			"file": "src/newsletter/views.py",
 			"settings":
 			{
-				"buffer_size": 1406,
+				"buffer_size": 1757,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/trydjango18/settings.py",
+			"file": "src/trydjango18/settings/__init__.py",
 			"settings":
 			{
-				"buffer_size": 3766,
+				"buffer_size": 66,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/trydjango18/urls.py",
+			"file": "src/trydjango18/settings/base.py",
 			"settings":
 			{
-				"buffer_size": 616,
+				"buffer_size": 3783,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/templates/registration/login.html",
+			"file": "src/trydjango18/settings/production.py",
 			"settings":
 			{
-				"buffer_size": 730,
+				"buffer_size": 3479,
 				"line_ending": "Unix"
 			}
 		}
@@ -148,9 +164,30 @@
 	},
 	"file_history":
 	[
-		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/logout.html",
-		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/login.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/404.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/500.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/403.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/400.html",
+		"/mnt/01CF833A20F25D10/Proyectos/Mars Project/Documentacion/conexion git.txt",
+		"/mnt/01CF833A20F25D10/Proyectos/Mars Project/Diseño/Programacion/gui_respaldo_21-09-2015/generate_reports/print_lineal.php",
+		"/mnt/01CF833A20F25D10/Proyectos/Mars Project/Diseño/Programacion/gui_respaldo_21-09-2015/generate_reports/print_grafo.php",
 		"/home/guillermosipe/Documentos/GitHub/curso_django/README.md",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/trydjango18/settings/settings.py",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/trydjango18/__init__.py",
+		"/home/guillermosipe/Documentos/Consultorio Lomps/Configuración/server.txt",
+		"/home/guillermosipe/Documentos/htaccess.txt",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/base_css.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/navbar-static-top.css",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/login.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/trydjango18/urls.py",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/trydjango18/settings.py",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/newsletter/views.py",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/navbar.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/forms.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/base.html",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/pip-selfcheck.json",
+		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/logout.html",
 		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/registration_complete.html",
 		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/activation_complete.html",
 		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/activation_email.txt",
@@ -159,7 +196,6 @@
 		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/templates/registration/activation_email_subject.txt",
 		"/home/guillermosipe/.cache/.fr-USKKNT/Try-Django-1.8-master/src/templates/forms.html",
 		"/home/guillermosipe/.cache/.fr-ans3Rk/Try-Django-1.8-master/src/templates/forms.html",
-		"/home/guillermosipe/Documentos/GitHub/curso_django/trydjango18/src/trydjango18/urls.py",
 		"/home/guillermosipe/.cache/.fr-smh1At/Try-Django-1.8-master/src/templates/home.html",
 		"/home/guillermosipe/Documentos/GitHub/curso_django/curso/models.py",
 		"/home/guillermosipe/Documentos/GitHub/curso_django/curso/forms.py",
@@ -258,23 +294,50 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/templates/base.html",
+					"file": "src/templates/home.html",
 					"settings":
 					{
-						"buffer_size": 840,
+						"buffer_size": 2459,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22,
-								22
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
 							]
 						],
 						"settings":
@@ -284,56 +347,30 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/templates/home.html",
-					"settings":
-					{
-						"buffer_size": 1093,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1053,
-								1053
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 90.0,
+						"translation.y": 135.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "src/templates/forms.html",
+					"file": "src/static_in_pro/our_static/css/navbar-fixed-top.css",
 					"settings":
 					{
-						"buffer_size": 457,
+						"buffer_size": 258,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								235,
-								235
+								219,
+								219
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -346,15 +383,15 @@
 					"file": "src/templates/navbar.html",
 					"settings":
 					{
-						"buffer_size": 2582,
+						"buffer_size": 2867,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1590,
-								1590
+								1834,
+								1834
 							]
 						],
 						"settings":
@@ -364,7 +401,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 270.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -374,15 +411,15 @@
 					"file": "src/newsletter/views.py",
 					"settings":
 					{
-						"buffer_size": 1406,
+						"buffer_size": 1757,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1336,
-								1336
+								847,
+								847
 							]
 						],
 						"settings":
@@ -391,53 +428,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 360.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "src/trydjango18/settings.py",
+					"file": "src/trydjango18/settings/__init__.py",
 					"settings":
 					{
-						"buffer_size": 3766,
+						"buffer_size": 66,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3765,
-								3765
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1980.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/trydjango18/urls.py",
-					"settings":
-					{
-						"buffer_size": 616,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								399,
-								399
+								21,
+								21
 							]
 						],
 						"settings":
@@ -451,27 +460,57 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "src/templates/registration/login.html",
+					"buffer": 6,
+					"file": "src/trydjango18/settings/base.py",
 					"settings":
 					{
-						"buffer_size": 730,
+						"buffer_size": 3783,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								819,
+								819
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/trydjango18/settings/production.py",
+					"settings":
+					{
+						"buffer_size": 3479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
